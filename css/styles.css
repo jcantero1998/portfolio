@@ -568,6 +568,10 @@ progress {
   list-style: none;
 }
 
+.list-unstyled p {
+  margin-bottom: 0px;
+}
+
 .list-inline {
   padding-left: 0;
   list-style: none;
